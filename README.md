@@ -4,9 +4,6 @@ Features
     RDKit Integration: Makes use of RDKit's capabilities for handling chemical structures, including converting molecules to SMILES notation.
     Customizable: Easily adjustable to the number of processes required for parallel processing.
 
-Certainly! Here's a potential GitHub description for your code:
-Parallel SDF to TSV Converter using RDKit and Multiprocessing
-
 This Python script leverages the RDKit chemistry toolkit and multiprocessing to efficiently convert chemical structure data from Structure Data Files (SDF) to a Tab-Separated Values (TSV) format. The conversion includes extracting compound IDs and SMILES representations of molecules.
 Features
 
